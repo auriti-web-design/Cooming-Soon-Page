@@ -1,2 +1,2 @@
-# Cooming-Soon-Page
-# Cooming-Soon-Page
+# Cooming Soon Page
+## Frontend mentor challange #1
